@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "icp-reviews-backend": {
+      "main": "src/icp-reviews-backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
